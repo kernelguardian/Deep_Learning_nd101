@@ -1,4 +1,4 @@
-# The code is not mine, I have only reproduced the work :)
+# The code is not mine, I have only reproduced the work :),for source repo visit [here](https://github.com/yenchenlin1994/DeepLearningFlappyBird.git)
 # Using Deep Q-Network to Learn How To Play Flappy Bird
 
 <img src="./images/flappy_bird_demp.gif" width="250">
