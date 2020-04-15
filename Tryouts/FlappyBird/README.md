@@ -1,3 +1,4 @@
+# The code below is not mine, I have only merely reproduced the work :)
 # Using Deep Q-Network to Learn How To Play Flappy Bird
 
 <img src="./images/flappy_bird_demp.gif" width="250">
