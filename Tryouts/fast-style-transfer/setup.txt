@@ -1,0 +1,11 @@
+https://knowledge.udacity.com/questions/56587
+
+conda create -n style-transfer python=3
+conda activate style-transfer
+conda install scipy=1.0.0
+pip install moviepy==0.2.3.3( it is important to install moviepy of 
+		this version before installing pillow, otherwise the error may occur )
+conda install tensorflow pillow
+pip install imageio-ffmpeg
+
+python evaluate.py --checkpoint ./rain-princess.ckpt --in-path <path_to_input_file> --out-path ./output_image.jpg
